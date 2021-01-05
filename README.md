@@ -1,2 +1,3 @@
 # INSTAGRAM-clone MERN stack
-INSTAGRAM-Clone built with MERN STACK (MongoDB, Express.js, React.js, Node.js) , (project is in process of building)
+FULLSTACK INSTAGRAM-Clone app, built with MERN STACK (MongoDB, Express.js, React.js, Node.js) 
+Application will have full functionality as just as reall Instagram has (project is in process of building)
